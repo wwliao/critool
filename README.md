@@ -1,5 +1,11 @@
 # CRI Tool
-Calculate CRI score and generate box plots
+Calculate composite RIP index (CRI) score and generate box plots
+
+## Requirements
+Python 2.7 and R
+
+## License
+MIT
 
 ## Repeat sequences (FASTA format)
 - [Neurospora_crassa.unmasked.fasta.seqs.txt.gz](http://paoyang.ipmb.sinica.edu.tw/~paoyang/truffle/CRI_tool/Neurospora_crassa.unmasked.fasta.seqs.txt.gz)
